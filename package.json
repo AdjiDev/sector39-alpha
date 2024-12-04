@@ -1,0 +1,21 @@
+{
+  "name": "sector39-alpha",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "python sector39.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cloudscraper": "^4.6.0",
+    "fake-useragent": "^1.0.1"
+  }
+}
